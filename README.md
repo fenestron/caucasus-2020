@@ -17,6 +17,23 @@
 - [Ремнабор](#ремнабор)
 - [Ссылки](#ссылки)
 
+## Открытые вопросы
+
+- Даты похода
+- Питьевые источники в начале августа
+- Нить маршрута по дням
+- Переход от Блыбских озер (о. Леушино) до озера Скотта
+- Нужны ли палатки
+- КОШ? Действуют ли? Можно ли ночевать?
+- Команда
+- Чил в Краснодарском крае после похода
+- Координатор в Москве
+- GPS трекер
+- Фотоаппарат
+- Аптечка
+- Раскладка
+- Ремнабор
+
 
 ## Даты
 
@@ -217,7 +234,9 @@
 
 ## Ссылки 
 
-- [Статья с похожим маршрутом](http://pohod-v-gory.ru/magisho-ili-pohod-po-marshrutu-hrebet-dzhentu-hrebet-sergiev-gay-ozero-skotta-hrebet-magisho-blybskie-ozera/)
+- [Описание маршрута Дмитрия Скрипова](http://pohod-v-gory.ru/magisho-ili-pohod-po-marshrutu-hrebet-dzhentu-hrebet-sergiev-gay-ozero-skotta-hrebet-magisho-blybskie-ozera/) - вдохновлен именно этим отчетом
+- [Подробный отчет с фотками от участника с маршрута Дмитрия Скрипова](http://viaestvita.ru/otchet-cvetochnoe-bezumie-na-magisho/)
+- [Фотки с маршрута Дмитрия Скрипова](https://yadi.sk/d/D6TfxN5I3-tozw)
 - [Отчет 1кс, май 2016, Лебедев А.А.](http://static.turclubmai.ru/papers/2258/)
 - [Отчет 1кс, май 2018, Третьяков Н. К.](http://tlib.ru/doc.aspx?id=41610&page=1)
 
