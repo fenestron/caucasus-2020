@@ -2,6 +2,7 @@
 
 ## Содержание
 
+- [Команда](#команда)
 - [Даты](#даты)
 - [Логистика](#логистика)
 - [Маршрут](#маршрут)
@@ -29,6 +30,104 @@
 - Аптечка
 - Раскладка
 - Ремнабор
+
+
+## Команда
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://vk.com/fenestron">
+        <img src="https://avatars.githubusercontent.com/u/9680621" width="100px;" alt="Кулагин А.Ю."/>
+        <br/>
+        <sub>
+          <b>Кулагин А.Ю.</b>
+        </sub>
+      </a>
+      <br/>
+      Руководитель
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Завпит
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Завснар
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Медик
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Фотограф
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Экономист
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Штурман
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
+        <br/>
+        <sub>
+          <b>Может быть ты?</b>
+        </sub>
+      </a>
+      <br/>
+      Реммастер
+    </td>
+  </tr>
+</table>
 
 
 ## Даты
