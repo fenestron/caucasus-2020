@@ -38,93 +38,53 @@
   <tr>
     <td align="center">
       <a href="https://vk.com/fenestron">
-        <img src="https://avatars.githubusercontent.com/u/9680621" width="100px;" alt="Кулагин А.Ю."/>
-        <br/>
-        <sub>
-          <b>Кулагин А.Ю.</b>
-        </sub>
-      </a>
-      <br/>
-      Руководитель
+        <img src="https://avatars.githubusercontent.com/u/9680621" width="150px;" alt="Кулагин А.Ю."/>
+        <br/><b>Кулагин А.Ю.</b>
+      </a><br/>Руководитель
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Завпит
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Завпит
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Завснар
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Завснар
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Медик
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Медик
     </td>
   </tr>
     <tr>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Фотограф
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Фотограф
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Экономист
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Экономист
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Штурман
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Штурман
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="100px;" alt=""/>
-        <br/>
-        <sub>
-          <b>Может быть ты?</b>
-        </sub>
-      </a>
-      <br/>
-      Реммастер
+        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
+        <br/><b>Может быть ты?</b>
+      </a><br/>Реммастер
     </td>
   </tr>
 </table>
