@@ -44,29 +44,29 @@
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
-      </a><br/>Завпит
+        <img src="https://sun9-42.userapi.com/c855620/v855620805/176b67/Pwwof4LyAp4.jpg" width="150px;" alt=""/>
+        <br/><b>Ломаев Дмитрий</b>
+      </a><br/>&#8291;
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
-      </a><br/>Завснар
+        <img src="https://sun9-20.userapi.com/c855620/v855620805/176b6f/uUldUd3n9UI.jpg" width="150px;" alt=""/>
+        <br/><b>Толкачева Марина</b>
+      </a><br/>&#8291;
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
-      </a><br/>Медик
+        <img src="https://sun9-66.userapi.com/c855620/v855620805/176b7f/Ozd5HSWNpYc.jpg" width="150px;" alt=""/>
+        <br/><b>Стрючкова Елизавета</b>
+      </a><br/>Фотограф
     </td>
   </tr>
     <tr>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
-      </a><br/>Фотограф
+        <img src="https://sun9-19.userapi.com/c855620/v855620805/176b88/VR4ZnvupjJA.jpg" width="150px;" alt=""/>
+        <br/><b>Лебедев Илья</b>
+      </a><br/>&#8291;
     </td>
     <td align="center">
       <a href="">
