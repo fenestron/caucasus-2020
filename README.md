@@ -70,9 +70,9 @@
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
-      </a><br/>Экономист
+        <img src="https://sun9-49.userapi.com/c857520/v857520332/1091bf/yvmJ_5lnTOI.jpg" width="150px;" alt=""/>
+        <br/><b>Добродий Диана</b>
+      </a><br/>&#8291;
     </td>
     <td align="center">
       <a href="">
