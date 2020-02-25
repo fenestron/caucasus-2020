@@ -60,14 +60,14 @@
         <br/><b>Стрючкова Елизавета</b>
       </a><br/>Фотограф
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="">
         <img src="https://sun9-19.userapi.com/c855620/v855620805/176b88/VR4ZnvupjJA.jpg" width="150px;" alt=""/>
         <br/><b>Лебедев Илья</b>
       </a><br/>&#8291;
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="">
         <img src="https://sun9-49.userapi.com/c857520/v857520332/1091bf/yvmJ_5lnTOI.jpg" width="150px;" alt=""/>
@@ -76,15 +76,26 @@
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
-      </a><br/>Штурман
+        <img src="https://sun9-33.userapi.com/c858332/v858332251/18809f/mBDUmk_nDNA.jpg" width="150px;" alt=""/>
+        <br/><b>Кузнецова Светлана</b>
+      </a><br/>&#8291;
     </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-60.userapi.com/c858332/v858332251/1880af/E7a15bJqD9o.jpg" width="150px;" alt=""/>
+        <br/><b>Токарева Екатерина</b>
+      </a><br/>&#8291;
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://sun9-49.userapi.com/c858332/v858332251/1880c1/SGOp4GmbDKc.jpg" width="150px;" alt=""/>
+        <br/><b>Кравченко Мария</b>
+      </a><br/>&#8291;
     <td align="center">
       <a href="">
         <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
         <br/><b>Может быть ты?</b>
-      </a><br/>Реммастер
+      </a><br/>&#8291;
     </td>
   </tr>
 </table>
