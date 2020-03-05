@@ -93,8 +93,8 @@
       </a><br/>&#8291;
     <td align="center">
       <a href="">
-        <img src="https://sun9-40.userapi.com/c855036/v855036398/16517a/-koLPHZqexw.jpg" width="150px;" alt=""/>
-        <br/><b>Может быть ты?</b>
+        <img src="https://sun9-54.userapi.com/c855228/v855228046/1fb2d4/HVJhd1TkLJ0.jpg" width="150px;" alt=""/>
+        <br/><b>Ильнур Бетымбаев</b>
       </a><br/>&#8291;
     </td>
   </tr>
