@@ -44,16 +44,24 @@
     </td>
     <td align="center">
       <a href="">
+        <img src="https://sun9-49.userapi.com/c858332/v858332251/1880c1/SGOp4GmbDKc.jpg" width="150px;" alt=""/>
+        <br/><b>Кравченко Мария</b>
+      </a><br/>Завпит
+    </td>
+    <td align="center">
+      <a href="">
         <img src="https://sun9-42.userapi.com/c855620/v855620805/176b67/Pwwof4LyAp4.jpg" width="150px;" alt=""/>
         <br/><b>Ломаев Дмитрий</b>
-      </a><br/>&#8291;
+      </a><br/>Завснар, краевед
     </td>
     <td align="center">
       <a href="">
         <img src="https://sun9-20.userapi.com/c855620/v855620805/176b6f/uUldUd3n9UI.jpg" width="150px;" alt=""/>
         <br/><b>Толкачева Марина</b>
-      </a><br/>&#8291;
+      </a><br/>Медик
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="">
         <img src="https://sun9-66.userapi.com/c855620/v855620805/176b7f/Ozd5HSWNpYc.jpg" width="150px;" alt=""/>
@@ -64,38 +72,19 @@
       <a href="">
         <img src="https://sun9-19.userapi.com/c855620/v855620805/176b88/VR4ZnvupjJA.jpg" width="150px;" alt=""/>
         <br/><b>Лебедев Илья</b>
-      </a><br/>&#8291;
+      </a><br/>Реммастер, логист, связист
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="">
         <img src="https://sun9-49.userapi.com/c857520/v857520332/1091bf/yvmJ_5lnTOI.jpg" width="150px;" alt=""/>
         <br/><b>Добродий Диана</b>
-      </a><br/>&#8291;
+      </a><br/>Видеооператор
     </td>
     <td align="center">
       <a href="">
-        <img src="https://sun9-33.userapi.com/c858332/v858332251/18809f/mBDUmk_nDNA.jpg" width="150px;" alt=""/>
-        <br/><b>Кузнецова Светлана</b>
-      </a><br/>&#8291;
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="https://sun9-60.userapi.com/c858332/v858332251/1880af/E7a15bJqD9o.jpg" width="150px;" alt=""/>
-        <br/><b>Токарева Екатерина</b>
-      </a><br/>&#8291;
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="https://sun9-49.userapi.com/c858332/v858332251/1880c1/SGOp4GmbDKc.jpg" width="150px;" alt=""/>
-        <br/><b>Кравченко Мария</b>
-      </a><br/>&#8291;
-    <td align="center">
-      <a href="">
-        <img src="https://sun9-54.userapi.com/c855228/v855228046/1fb2d4/HVJhd1TkLJ0.jpg" width="150px;" alt=""/>
-        <br/><b>Ильнур Бетымбаев</b>
-      </a><br/>&#8291;
+        <img src="https://sun1-98.userapi.com/Qw01STSykWJ6a50t3OA8nRrdysCVGjxM3SeM2A/y06WAZd-BTM.jpg" width="150px;" alt=""/>
+        <br/><b>Иващенко Арина</b>
+      </a><br/>Участник
     </td>
   </tr>
 </table>
