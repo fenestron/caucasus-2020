@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<trk>
+		<name>День 10. Радиалки до водопадов</name>
+		<trkseg>
+			<trkpt lat="44.003744" lon="40.862191"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.004174" lon="40.862663"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.004603" lon="40.863006"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005032" lon="40.863693"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005590" lon="40.864723"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.006040" lon="40.865324"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.006019" lon="40.865667"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005804" lon="40.865710"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005332" lon="40.865710"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005010" lon="40.865452"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.004367" lon="40.864551"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.004066" lon="40.863843"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.003937" lon="40.862985"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.003723" lon="40.862405"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+		<trkseg>
+			<trkpt lat="44.005397" lon="40.865753"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005461" lon="40.865967"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.005697" lon="40.865946"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.006105" lon="40.866375"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.006384" lon="40.866418"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.006534" lon="40.866332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="44.006598" lon="40.865989"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<trk>
+		<name>День 4. Радиалки</name>
+		<trkseg>
+			<trkpt lat="43.812256" lon="40.835583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812127" lon="40.835412"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812299" lon="40.835111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812771" lon="40.834489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812685" lon="40.833802"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812857" lon="40.833631"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812878" lon="40.833266"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813093" lon="40.832965"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813071" lon="40.832880"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812943" lon="40.832794"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812835" lon="40.832558"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812814" lon="40.832386"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812728" lon="40.832257"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812556" lon="40.832129"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812621" lon="40.831957"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812578" lon="40.831850"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812878" lon="40.831528"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812814" lon="40.831292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812857" lon="40.831184"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813093" lon="40.831142"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813243" lon="40.831163"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813415" lon="40.831270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813522" lon="40.831099"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813672" lon="40.831270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.813780" lon="40.831227"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+		<trkseg>
+			<trkpt lat="43.812256" lon="40.835605"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.812106" lon="40.835412"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.811698" lon="40.835283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.811033" lon="40.835283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.810818" lon="40.835047"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.810733" lon="40.834811"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
